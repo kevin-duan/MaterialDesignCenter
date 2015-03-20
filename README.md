@@ -1,9 +1,11 @@
 MaterialDesignCenter
 ==================
 
-Collection of material design libs and res.  
->如果你也有不错的Material Design相关资源，可直接Commit，但在Commit之前，请进行Preview changes，看一下预览图.根据提交的项目，尽量选取几张具有代表性的图片，正常3张图片放在一排应该能代表该项目，如果比较特殊，可以另起一行放置，图片的命名和规格可以参照已提交的图片，因为该项目的主很多地方都是效果展示，为保持整体的一致性和美观性，请大家尽量遵循以上规则，欢迎大家Star、Fork :)。
+汇集MaterialDesigh相关的各种资源.  
+>如果你也有不错的Material Design相关资源，可直接Commit，但在Commit之前，请进行Preview changes，看一下预览图.根据提交的项目，尽量选取几张具有代表性的图片，正常3张图片放在一排应该能代表该项目，如果比较特殊，可以另起一行放置，图片的命名和规格可以参照已提交的图片，因为该项目的主很多地方都是效果展示，为保持整体的一致性和美观性，请大家尽量>遵循以上规则，欢迎大家Star、Fork :)。
 
+**关于我**    &nbsp;&nbsp;&nbsp;&nbsp;
+微博: [light_sky](http://www.weibo.com/lightSkyStreet)&nbsp;&nbsp;&nbsp;&nbsp; Blog:[lightskystreet.com](http://www.lightskystreet.com/)   &nbsp;&nbsp;&nbsp;&nbsp;邮箱: huberycarl@gmail.com  
 
 # 资源
 ### Material Design介绍：  
@@ -40,13 +42,22 @@ Google  2014: https://github.com/google/iosched
 <img src="/demoRes/iosched-d.jpg" width="230" height="400" alt="Screenshot"/>  
 （下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子，文件夹下的另一个fqrouter会帮到你）    
 
+### 个人教程  
+[How to upgrade your app’s design from Holo to Material Design — A case study](https://medium.com/@orhnsnmz/how-to-upgrade-your-apps-design-from-holo-to-material-design-a-case-study-f77e33a528c8)  
+[My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/?utm_source=Android+Weekly&utm_campaign=5b8f334ff8-Android_Weekly_133&utm_medium=email&utm_term=0_4eb677ad19-5b8f334ff8-337298809)  
+[Content Transitions In-Depth (part 2)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-content-transitions-in-depth-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+androiddesignpatterns+%28Android+Design+Patterns%29)  
+[Material design in the 2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)  
+[MaterialDesigh 学习笔记](http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11)
+
 ### 视频教程
 https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be  
 https://www.youtube.com/watch?v=S3H7nJ4QaD8  
 https://skillsmatter.com/skillscasts/5627-material-design
 
-# Material Libs  
+### MaterialDesign设计网站  
+http://www.materialup.com/
 
+# Material Libs  
 ### 示例集合
 https://github.com/navasmdc/MaterialDesignLibrary  
 <img src="/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> 
@@ -164,6 +175,9 @@ https://github.com/neokree/MaterialNavigationDrawer
 <img src="/demoRes/MaterialNavigationDrawer-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="/demoRes/MaterialNavigationDrawer-b.png" width="260" height="410" alt="Screenshot"/>    
 
+https://github.com/rudsonlive/NavigationDrawer-MaterialDesign  
+<img src="/demoRes/navigationdrawer-materialdesign.png" width="260" height="410" alt="Screenshot"/>    
+
 https://github.com/onivas/MenuAnimation  
 <img src="/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
 <img src="/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
@@ -175,6 +189,9 @@ https://github.com/kyleduo/SwitchButton
 
 https://github.com/pnikosis/materialish-progress  
 <img src="/demoRes/materiallish-progress.gif" width="290" height="210" alt="Screenshot"/>    
+
+https://github.com/lsjwzh/MaterialLoadingProgressBar    
+<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="260" height="410" alt="Screenshot"/>    
 
 https://github.com/AnderWeb/discreteSeekBar  
 <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/>    
@@ -189,6 +206,8 @@ https://github.com/HeinrichReimer/material-drawer (无图)
 https://github.com/ksoichiro/Android-ObservableScrollView  
 <img src="/demoRes/Android-ObservableScrollView-a.gif" width="280" height="230" alt="Screenshot"/>
 <img src="/demoRes/Android-ObservableScrollView-c.gif" width="280" height="230" alt="Screenshot"/>  
+https://github.com/ongakuer/ViewPagerHeaderScrollDemo  
+<img src="/demoRes/viewpagerheaderdemo.gif" width="260" height="410" alt="Screenshot"/>  
 https://github.com/Kennyc1012/SnackBar  
 <img src="/demoRes/SnackBar.gif" width="260" height="410" alt="Screenshot"/>  
 
@@ -212,7 +231,14 @@ https://github.com/balysv/material-ripple
 https://github.com/03uk/RippleDrawable  
 <img src="/demoRes/RippleDrawable-a.jpg"  alt="Screenshot"/>
 
-https://github.com/twang2218/material-design-toolkit (无图)
+https://github.com/twang2218/material-design-toolkit (无图)  
+
+### Palette  
+https://github.com/saulmm/OpenLibra-Material  
+<img src="/demoRes/openlibra-material.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/novoda/material-painter  
+<img src="/demoRes/material-painter.gif" width="260" height="410" alt="Screenshot"/>  
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example (图太大)  
@@ -288,3 +314,6 @@ https://github.com/ekx/GitLabAndroid
 
 https://github.com/frogermcs/InstaMaterial  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/xiprox/WaniKani-for-Android  
+<img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
